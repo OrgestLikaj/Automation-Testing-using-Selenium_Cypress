@@ -1,0 +1,49 @@
+Automation Testing:
+ 
+---> Selenium WebDriver
+
+https://www.youtube.com/watch?v=PLLbGltmkpE&list=PLUDwpEzHYYLs6G9WOfFxiH5zMfgNxgmSV&ab_channel=SDET-AutomationTechie
+https://www.selenium.dev/
+https://www.selenium.dev/documentation/
+
+
+---> Cypress
+
+https://cypress.io/
+https://docs.cypress.io/guides/dashboard/projects
+https://www.youtube.com/watch?v=LcGHiFnBh3Y&ab_channel=Cypress.io
+https://www.youtube.com/watch?v=VvLocgtCQnY&ab_channel=Cypress.io
+https://www.youtube.com/watch?v=OIAzwr-_jhY&t=1056s&ab_channel=codedamn
+https://www.youtube.com/watch?v=_YMi8_CLk2M&ab_channel=TechieQA
+
+
+
+**********************************************************************************************************************
+**********************************************************************************************************************
+ 
+---> Selenium IDE
+https://www.selenium.dev/selenium-ide/
+ 
+
+
+**********************************************************************************************************************
+**********************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
